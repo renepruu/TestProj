@@ -1,0 +1,51 @@
+{
+  "associatedLayout": "Level1",
+  "name": "UI Layout",
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "UI Layer",
+      "name": "Coin",
+      "persistentUuid": "dd7f743a-70ab-43ca-b617-d9ef549dca63",
+      "width": 0,
+      "x": 42,
+      "y": 29,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "UI Layer",
+      "name": "Text_cointCount",
+      "persistentUuid": "798f7982-a703-429e-8a1e-93953313390a",
+      "width": 0,
+      "x": 97,
+      "y": 27,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "editionSettings": {
+    "grid": false,
+    "gridType": "rectangular",
+    "gridWidth": 32,
+    "gridHeight": 32,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridColor": 10401023,
+    "gridAlpha": 0.8,
+    "snap": false,
+    "zoomFactor": 0.546875,
+    "windowMask": false
+  }
+}
