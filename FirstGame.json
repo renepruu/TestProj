@@ -658,6 +658,78 @@
         "name": "NewSprite",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "assets/Spikes.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Spikes.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Spikes/9728e7ce3b9e8fc40dd7f91a8553a1d6818f5e4026cdbe05293716d4fc796b12_Spikes.png",
+          "name": "Spikes.png"
+        }
+      },
+      {
+        "file": "assets/Flying enemy_1 (2).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flying enemy_1 (2).png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Abstract Platformer Pack (370 assets)/PNG/Enemies/f68acd897ac314409fe885b3e3494b82396b7def256eb29d633c2265724dfc26_Flying enemy_1 (2).png",
+          "name": "Flying enemy_1 (2).png"
+        }
+      },
+      {
+        "file": "assets/Flying enemy_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flying enemy_1.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Abstract Platformer Pack (370 assets)/PNG/Enemies/9ed724c55480b665e1d0525bb49562d2ee0acf2c8ebf2a51ac763ef8414e84d3_Flying enemy_1.png",
+          "name": "Flying enemy_1.png"
+        }
+      },
+      {
+        "file": "assets/Flying enemy_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flying enemy_2.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Abstract Platformer Pack (370 assets)/PNG/Enemies/75c972792f54c2516ca08c6f99e48849694eaf18dc9f97123c53f7b06befdc89_Flying enemy_2.png",
+          "name": "Flying enemy_2.png"
+        }
+      },
+      {
+        "file": "assets/Flying enemy_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flying enemy_3.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Abstract Platformer Pack (370 assets)/PNG/Enemies/29da2a9694fb2cdfbf307cd5d59536627b05e801589a060275fba7154a57e0f0_Flying enemy_3.png",
+          "name": "Flying enemy_3.png"
+        }
+      },
+      {
+        "file": "assets/Flying enemy_dead_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flying enemy_dead_1.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Abstract Platformer Pack (370 assets)/PNG/Enemies/be84d8bbf0787c3d526baecc2838e5385f4add788ec8b1ccf1d33f5c92fdca64_Flying enemy_dead_1.png",
+          "name": "Flying enemy_dead_1.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -2650,7 +2722,12 @@
     }
   ],
   "externalEvents": [],
-  "eventsFunctionsExtensions": [],
+  "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/timedbackandforthmovement"
+    }
+  ],
   "externalLayouts": [
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
